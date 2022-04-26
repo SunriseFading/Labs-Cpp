@@ -1,1 +1,1 @@
-# C++ Labs using OOP and QT
+# C++ Labs using OOP and Qt Creator
